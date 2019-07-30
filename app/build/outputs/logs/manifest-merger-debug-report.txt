@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\db47129a80727b0602206ff9e6814051\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\190d166f1ff004d0152290b1a572980e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\ffae8256cf522db472e81277d24a868a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\112910d73ef87e72eb7897b882f6ebb3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\fbb12877462c0c880d7923af0912c28d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\f38f8e5e70ccabeb87868b34d7b734f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\76732821adcb87af8674eb9cf7810cdb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\7f243d0442d3b83eaec686fd2e565ef6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\443fe3f8e1148a8c1ddf634de31132f6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\660f4b573415301d1779ed2d4c330b53\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\25143fde2281c472fd27c8f7d6ce710f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\3a3c857bbe43f28bee1886d8df883cb4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\d5b9d4995b674c82d410ee81dd60085a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\f790174092bdd04bbdad978124a72aaf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\9e7e5d45b1642072c1435c9d202257c5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\df3ddb83aedad763942846df9a9d8479\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\4553a49a4ca1705da99e5ae8547af543\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\0d2e28da77e3404f00a0de93cb1f7044\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\afd8895374a0c079c09e76fa544335ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\8d34269ae8ea5e704c95dc2028648b99\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\c2367bb664a0bd1d80c98b18fb272750\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\fcec5236f65cf3266a3f1c67e60b6dd2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\0165d69b883b42cbad1d0f313fda03e5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\0bcccc2cea76c0c2b221c749d02ddeb6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\9b97938f7891dde9fb0e1851f471b198\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\fef78799a0f17753a2cd7c90c4f981e3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\30f3cdb97641a75f0eed4b1e4ac8a0cc\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\190d166f1ff004d0152290b1a572980e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\190d166f1ff004d0152290b1a572980e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\df3ddb83aedad763942846df9a9d8479\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\df3ddb83aedad763942846df9a9d8479\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\4553a49a4ca1705da99e5ae8547af543\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\4553a49a4ca1705da99e5ae8547af543\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\df3ddb83aedad763942846df9a9d8479\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml:11:9-40
+activity#br.com.etecia.listar_planetas.ListaDados
+ADDED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml:12:9-57
+	android:name
+		ADDED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml:12:19-45
+activity#br.com.etecia.listar_planetas.MainActivity
+ADDED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\db47129a80727b0602206ff9e6814051\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\db47129a80727b0602206ff9e6814051\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\190d166f1ff004d0152290b1a572980e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\190d166f1ff004d0152290b1a572980e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\ffae8256cf522db472e81277d24a868a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\ffae8256cf522db472e81277d24a868a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\112910d73ef87e72eb7897b882f6ebb3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\112910d73ef87e72eb7897b882f6ebb3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\fbb12877462c0c880d7923af0912c28d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\fbb12877462c0c880d7923af0912c28d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\f38f8e5e70ccabeb87868b34d7b734f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\f38f8e5e70ccabeb87868b34d7b734f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\76732821adcb87af8674eb9cf7810cdb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\76732821adcb87af8674eb9cf7810cdb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\7f243d0442d3b83eaec686fd2e565ef6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\7f243d0442d3b83eaec686fd2e565ef6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\443fe3f8e1148a8c1ddf634de31132f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\443fe3f8e1148a8c1ddf634de31132f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\660f4b573415301d1779ed2d4c330b53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\660f4b573415301d1779ed2d4c330b53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\25143fde2281c472fd27c8f7d6ce710f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\25143fde2281c472fd27c8f7d6ce710f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\3a3c857bbe43f28bee1886d8df883cb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\3a3c857bbe43f28bee1886d8df883cb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\d5b9d4995b674c82d410ee81dd60085a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\d5b9d4995b674c82d410ee81dd60085a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\f790174092bdd04bbdad978124a72aaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\f790174092bdd04bbdad978124a72aaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\9e7e5d45b1642072c1435c9d202257c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\9e7e5d45b1642072c1435c9d202257c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\df3ddb83aedad763942846df9a9d8479\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\df3ddb83aedad763942846df9a9d8479\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\4553a49a4ca1705da99e5ae8547af543\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\4553a49a4ca1705da99e5ae8547af543\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\0d2e28da77e3404f00a0de93cb1f7044\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\0d2e28da77e3404f00a0de93cb1f7044\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\afd8895374a0c079c09e76fa544335ac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\afd8895374a0c079c09e76fa544335ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\8d34269ae8ea5e704c95dc2028648b99\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\8d34269ae8ea5e704c95dc2028648b99\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\c2367bb664a0bd1d80c98b18fb272750\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\c2367bb664a0bd1d80c98b18fb272750\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\fcec5236f65cf3266a3f1c67e60b6dd2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\fcec5236f65cf3266a3f1c67e60b6dd2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\0165d69b883b42cbad1d0f313fda03e5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\0165d69b883b42cbad1d0f313fda03e5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\0bcccc2cea76c0c2b221c749d02ddeb6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\0bcccc2cea76c0c2b221c749d02ddeb6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\9b97938f7891dde9fb0e1851f471b198\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\9b97938f7891dde9fb0e1851f471b198\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\fef78799a0f17753a2cd7c90c4f981e3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\fef78799a0f17753a2cd7c90c4f981e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\30f3cdb97641a75f0eed4b1e4ac8a0cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\manager\.gradle\caches\transforms-2\files-2.1\30f3cdb97641a75f0eed4b1e4ac8a0cc\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\manager\Meus Documentos\Listar_Planetas\app\src\main\AndroidManifest.xml
